@@ -17,3 +17,9 @@ Passo 3: Implementar funções para gerenciar os livros
 Função para cadastrar um novo livro
 
 Função para listar todos os livros
+
+Passo 4: Utilizar a biblioteca para gerar um gráfico
+
+Gerar o gráfico de quantidade de livros por gênero
+
+Passo 5: Testar o sistema
